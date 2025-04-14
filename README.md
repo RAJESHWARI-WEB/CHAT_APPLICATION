@@ -31,3 +31,5 @@ This chat app is an excellent example of real-time web functionality and can ser
 Potential enhancements could include user authentication, message timestamps, private messaging, or integrating a database for persistent chat history. Nevertheless, this project effectively demonstrates the fundamental concept of real-time communication using Socket.IO in a clean and understandable format.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/358a964d-823b-490e-bccc-2cd271b8668f)
